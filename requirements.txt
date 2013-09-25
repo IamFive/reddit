@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+Flask-Assets
+Flask-Script
+flask-testing
+praw
